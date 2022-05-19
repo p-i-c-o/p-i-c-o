@@ -334,32 +334,4 @@ while True:
 
 
 
-'''
-      
-      if event == '-search-term-':
-        SearchTerm = values['-search-term-']
-        SearchTerm.replace("['", "")
-        SearchTerm.replace("']", "")
-      
-        if values[event]:
-        
-          for i in alllist:
-            if SearchTerm in i:
-              if i not in matchlist:
-                matchlist.append(i)
-                outlist = sorted(matchlist)
-                window.Element('-scr-lib-list-').Update(values=outlist)
-                  
-            if SearchTerm not in i:
-              if i in matchlist:
-                matchlist.remove(i)
-                outlist = matchlist
-                window.Element('-scr-lib-list-').Update(values=outlist)
-              
-              outlist = sorted(matchlist)
-              window.Element('-scr-lib-list-').Update(values=outlist)
-              
-        else:
-          out = sorted(alllist)
-          window.Element('-scr-lib-list-').Update(values=out)'''
     
