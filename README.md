@@ -20,7 +20,7 @@
   - Discord
 
 - ⚡ Fun fact:
-  - Did you know that Python was named after the creators favourite film, Monty Python and the quest for the Holy Grail?
+  - Did you know that Python was named after the creators favourite film, Monty Python and the Quest for the Holy Grail?
 
 
 ### Contact
