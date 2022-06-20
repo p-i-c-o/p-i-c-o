@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
   - A BadUSB alternative
   - Python Based GUI software to work with it
+  - A chat software to talk with friends
 
 - 🌱 I’m currently learning
   - Python 3.X
@@ -24,4 +25,3 @@
 
 ### Contact
 Discord: Pico #3186
-
