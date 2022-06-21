@@ -8,7 +8,7 @@
 
 ### Hi there 👋
 
-- Owner [Network3][https://github.com/p-i-c-o/n3], 
+- Owner [Network 3](https://github.com/p-i-c-o/n3)
 
 - 🔭 I’m currently working on
   - A BadUSB alternative
