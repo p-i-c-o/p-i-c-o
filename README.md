@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning
   - Python 3.X
+    - PySimpleGUI
+    - Server Stuff
   - HTML
   - Bash
 
