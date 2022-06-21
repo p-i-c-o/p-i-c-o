@@ -10,7 +10,10 @@
     - PySimpleGUI
     - Server Stuff
   - HTML
+    - Portfolios
   - Bash
+  - Graphic Design
+    - Canva
 
 - 🤔 I’m looking for help with
   - Python to Mac App (like fbs, but for free)
