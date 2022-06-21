@@ -33,6 +33,6 @@
 
 
 ### Contact
-<img width="770" alt="Screen Shot 2022-06-21 at 09 15 49" src="https://user-images.githubusercontent.com/95228665/174739290-53d86605-ff22-4b8e-a188-5bfbfcd95b7a.png">
+<img width="100" alt="Screen Shot 2022-06-21 at 09 15 49" src="https://user-images.githubusercontent.com/95228665/174739290-53d86605-ff22-4b8e-a188-5bfbfcd95b7a.png">
 
 Pico #3186
