@@ -1,11 +1,5 @@
 ![Untitled design (1)](https://user-images.githubusercontent.com/95228665/174736973-585d45ca-41a8-43e9-a6b2-6baf2996eb1d.png)
 
-
-
-
-
-
-
 ### Hi there 👋
 
 - Owner [Network 3](https://github.com/p-i-c-o/n3)
