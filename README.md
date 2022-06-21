@@ -32,7 +32,5 @@
   - Did you know that Python was named after the creators favourite film, Monty Python and the Quest for the Holy Grail?
 
 
-
- 
 <img src="https://user-images.githubusercontent.com/95228665/174739768-c9c60d7f-b9bc-40ea-8e59-9779a9184e35.png" alt="Discord Logo" width="100"/>
  Pico #3186
