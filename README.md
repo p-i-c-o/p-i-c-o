@@ -13,6 +13,7 @@
   - Python 3.X
     - PySimpleGUI
     - Server Stuff
+    - Beautiful CLI interfaces
   - HTML
     - Portfolios
   - Bash
@@ -21,9 +22,6 @@
 
 - 🤔 I’m looking for help with
   - Python to Mac App (like fbs, but for free)
-
-- 💬 Ask me about
-  - Anything tbh
 
 - 📫 How to reach me:
   - Discord
