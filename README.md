@@ -28,7 +28,3 @@ I would love to work with anyone with an interesting project idea, contact me at
 
 <a href='https://www.instagram.com/pico.dev' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/pico.dev-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black&color=black'/></a>
 <a href='' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/pico_3186-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=black'/></a>
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=p-i-c-o&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-i-c-o&hide=TeX&layout=compact)
