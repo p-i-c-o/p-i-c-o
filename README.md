@@ -12,10 +12,8 @@
 <a href='https://www.atom.io/' target="_blank"><img alt='Atom' src='https://img.shields.io/badge/Atom-100000?style=for-the-badge&logo=Atom&logoColor=white&labelColor=black&color=black'/></a>
 <img alt='GNOME Terminal' src='https://img.shields.io/badge/Terminal-100000?style=for-the-badge&logo=GNOME Terminal&logoColor=white&labelColor=black&color=black'/>
 
-### Projects
-
-##### CLIChatter
-CLIChatter is a python based chat software, with optional  Fernet encryption and accepts up to 10 people on one server. The messages sent between users are saved on a file on the server and is easily accessible for future reading. Even though this project is fully working, I am still working on developing it further to make it as usefull and advanced as possible.
+### Resources
+Just scroll down to the bottom of [monnickendam.ch](https://www.monnickendam.ch)
 
 <a href='https://github.com/p-i-c-o/clichatter' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/View-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
 
