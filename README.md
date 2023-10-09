@@ -15,8 +15,6 @@
 ### Resources
 Just scroll down to the bottom of [monnickendam.ch](https://www.monnickendam.ch)
 
-<a href='https://github.com/p-i-c-o/clichatter' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/View-100000?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black&color=black'/></a>
-
 
 ### Do you want to work with me?
 
