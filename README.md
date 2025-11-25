@@ -1,20 +1,19 @@
+# Hi, I'm Elie 👋
 
-### Languages:
+I build tools, automate workflows, and run self-hosted infrastructure.  
+Mostly Python, Bash, JS, Linux, and servers.
 
-<a href='https://www.python.org/' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=white&labelColor=black&color=black'/></a>
-<a href='https://www.gnu.org/software/bash/' target="_blank"><img alt='GNU Bash' src='https://img.shields.io/badge/Bash-100000?style=for-the-badge&logo=GNU Bash&logoColor=white&labelColor=black&color=black'/></a>
+### 🔧 Interests
+- Automation & scripting  
+- Homelab / networking  
+- Lightweight tooling & CLI utilities  
+- Small hardware + microcontroller projects  
 
+### 📂 Projects
+- Custom CLI tools  
+- Self-hosted services  
+- Pi & microcontroller builds  
 
-### Tools:
+---
 
-<a href='https://www.apple.com/' target="_blank"><img alt='Apple' src='https://img.shields.io/badge/Apple-100000?style=for-the-badge&logo=Apple&logoColor=white&labelColor=black&color=black'/></a>
-<a href='https://www.atom.io/' target="_blank"><img alt='Atom' src='https://img.shields.io/badge/Atom-100000?style=for-the-badge&logo=Atom&logoColor=white&labelColor=black&color=black'/></a>
-<img alt='GNOME Terminal' src='https://img.shields.io/badge/Terminal-100000?style=for-the-badge&logo=GNOME Terminal&logoColor=white&labelColor=black&color=black'/>
-
-### Resources
-Just scroll down to the bottom of [monnickendam.ch](https://www.monnickendam.ch)
-
-
-### Do you want to work with me?
-
-I would love to work with anyone with an interesting project idea, contact me at any time!
+Always experimenting.  
