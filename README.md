@@ -18,8 +18,3 @@ Just scroll down to the bottom of [monnickendam.ch](https://www.monnickendam.ch)
 ### Do you want to work with me?
 
 I would love to work with anyone with an interesting project idea, contact me at any time!
-
-### Social and Contact:
-
-<a href='https://www.instagram.com/pico.dev' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/pico.dev-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black&color=black'/></a>
-<a href='' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/pico_3186-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=black'/></a>
